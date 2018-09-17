@@ -1,0 +1,4 @@
+Install mongo from the site https://www.mongodb.com/
+Also Install compass: https://www.mongodb.com/download-center#compass
+For trouble shooting: I had to make add a path under advanced system settings, environmental variables. 
+For more info see https://www.youtube.com/watch?v=ll2tY6KH8Tk

@@ -1,0 +1,8 @@
+Things to install
+Look at the package.json file:
+1. node
+2. express
+3. mongo
+4. mongoose
+5. nodemon
+6. body parser  (required for POSTMAN API)

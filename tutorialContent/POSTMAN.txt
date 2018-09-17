@@ -1,0 +1,7 @@
+What is POSTMAN?
+Postman helps with development and testing of APIs
+These will be found in the todo folders.
+Download and launch is as a chromse extension.
+Use Get and Post and with the URL http://localhost:3000/api/todos
+
+https://web.postman.co/workspaces?type=personal

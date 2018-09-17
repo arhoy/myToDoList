@@ -1,0 +1,17 @@
+What are the routes?
+The routes are: 
+GET
+POST
+PUT
+DELETE
+
+differences between http methods:
+//https://www.w3schools.com/tags/ref_httpmethods.asp
+
+We make a new folder to specify all the routes.
+Inside this `routes` folder we are going to be using
+ - the express.js server framework.
+
+We are also going to be using: 
+ - router = express.Router() to break routes into modular chunks.
+
